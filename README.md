@@ -1,4 +1,4 @@
-<p align=right>
+<div align=right>
 ### Hi Saumya here 🤍
 
 ### Student: Computer Science Engineering.
@@ -28,4 +28,4 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uxui5pqvpg5z5odrqxuzaytyu)
 
 
-</p>
+</div>
