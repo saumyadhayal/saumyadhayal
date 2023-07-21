@@ -23,7 +23,7 @@
 ### Mail: saumyadhayal.work@gmail.com
 
 ### Views on Profile 
-<a href="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></a>
+![Visitor Count](https://profile-counter.glitch.me/saumyadhayal/count.svg)
 
 ### Currently on Spotify
 ###
