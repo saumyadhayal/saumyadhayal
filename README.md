@@ -1,4 +1,3 @@
-<div align=right>
 ### Hi Saumya here 🤍
 
 ### Student: Computer Science Engineering.
@@ -23,9 +22,10 @@
 
 ### Mail: saumyadhayal.work@gmail.com
 
+### Views on Profile 
+<a href="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></a>
+
 ### Currently on Spotify
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uxui5pqvpg5z5odrqxuzaytyu)
 
-
-</div>
