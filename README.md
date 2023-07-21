@@ -1,5 +1,5 @@
 ### Hi it's Saumya here 
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="500">
 
 ### Student: Computer Science Engineering.
 
