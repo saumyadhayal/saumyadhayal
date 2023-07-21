@@ -1,5 +1,5 @@
 ### Hi Saumya here 🤍
-<a src="./content/bVC.gif" align="right" height=100>
+<img src="./content/bVC.gif" align="right" />
 
 ### Student: Computer Science Engineering.
 
