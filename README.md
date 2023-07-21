@@ -1,8 +1,8 @@
-### Hi Saumya here 🤍
+### Hi it's Saumya here 
 
 ### Student: Computer Science Engineering.
 
-### Languages:
+### Languages I'm currently working on:
 ### Frontend-   HTML, Javascript, CSS
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
