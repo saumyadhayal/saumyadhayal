@@ -1,5 +1,5 @@
-### Hi Saumya here
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://giphy.com/gifs/stars-motion-graphics-galaxy-ghUOqcRA6zOb0Qvfrh" height="100" /></a>
+### Hi Saumya here 🤍
+<a href="URL_REDIRECT" target="blank"><img align="right" src="https://i.gifer.com/bVC.gif" height="100" /></a>
 
 
 ### Currently a student persuing Computer Science Engineering.
@@ -21,7 +21,7 @@
 </p>
 
 
-### Hobbies- swimming, reading, working out, badminton, dancing and travelling
+### Hobbies- swimming 🏊‍♀️, reading 📖, working out 🎞️, badminton 🏸, dancing 👯‍♀️ and travelling 🚡
 
 ### Mail: saumyadhayal.work@gmail.com
 
