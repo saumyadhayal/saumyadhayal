@@ -1,8 +1,7 @@
 ### Hi it's Saumya here 
-
-### Student: Computer Science Engineering.
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
+### Student: Computer Science Engineering.
 
 ### Languages I'm currently working on:
 ### Frontend-   HTML, Javascript, CSS
