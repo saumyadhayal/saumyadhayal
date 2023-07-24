@@ -3,7 +3,6 @@
 ### Student: Computer Science Engineering.
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
-### Languages I'm currently working on:
 ### Frontend-   HTML, Javascript, CSS
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
