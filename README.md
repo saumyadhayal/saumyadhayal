@@ -1,6 +1,5 @@
 <h1>Hi it's Saumya here </h1>
 
-### Student: Computer Science Engineering.
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
 ### Frontend-   HTML, Javascript, CSS
@@ -17,8 +16,6 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
 </p>
-
-### Hobbies- swimming 🏊‍♀️, reading 📖, working out 🎞️, badminton 🏸, dancing 👯‍♀️ and travelling 🚡
 
 ### Mail: saumyadhayal.work@gmail.com
 
