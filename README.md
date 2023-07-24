@@ -1,4 +1,4 @@
-<h1>Hi it's Saumya here </h1>
+<h1>Hi I'm Saumya </h1>
 
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
