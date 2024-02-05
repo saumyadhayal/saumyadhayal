@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> 
 </p>
 
-### Mail: saumyadhayal.work@gmail.com
+### Mail: saumyadhayal@gmail.com
 
 ### Views on Profile 
 ![Visitor Count](https://profile-counter.glitch.me/saumyadhayal/count.svg)
