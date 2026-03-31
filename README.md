@@ -19,10 +19,4 @@
 
 ### Mail: saumyadhayal@gmail.com
 
-### Views on Profile 
-![Visitor Count](https://profile-counter.glitch.me/saumyadhayal/count.svg)
-
-### Currently on Spotify
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uxui5pqvpg5z5odrqxuzaytyu)
 
